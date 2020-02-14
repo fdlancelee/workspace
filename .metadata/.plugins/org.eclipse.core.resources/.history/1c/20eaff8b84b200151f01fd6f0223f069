@@ -1,0 +1,7 @@
+age = 28
+if age>=30:
+    print('your age is',age)
+    print('adult')
+else:
+    print('your age is',age)
+    print('teenager')    

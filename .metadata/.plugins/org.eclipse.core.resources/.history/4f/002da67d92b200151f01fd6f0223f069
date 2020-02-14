@@ -1,0 +1,28 @@
+# 
+# i = max(18,12,123,14,15,26,367,8)
+# print(i)
+# 
+# x = int(input('x is:'))
+# 
+# 
+# def my_abs(x):
+#     if x >= 0:
+#         return(x)
+#     else:
+#         return(-x)
+#     
+#     
+# print(my_abs(x))
+
+
+def power(z,n):
+    s = 1
+    while n>0:
+        n = n - 1
+        s = s * z
+           
+    return s
+
+y = int(input('y is '))
+n = int(input('n is '))
+print(power(y,n))

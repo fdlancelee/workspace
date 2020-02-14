@@ -1,0 +1,6 @@
+classmates = ['lily','lucy','aixe','ben']
+print(classmates)
+classmates.append('aim')
+print(classmates)
+classmate.pop(4)
+print(classmates)

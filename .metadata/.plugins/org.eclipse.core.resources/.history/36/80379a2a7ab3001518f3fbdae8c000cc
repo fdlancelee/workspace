@@ -1,0 +1,6 @@
+'''
+Created on 2016年1月5日
+
+@author: FUDIAN
+'''
+f = open('D:/Python\test\test.txt','r')

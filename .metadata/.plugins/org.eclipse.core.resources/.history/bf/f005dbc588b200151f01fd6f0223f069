@@ -1,0 +1,12 @@
+
+i = max(18,12,123,14,15,26,367,8)
+print(i)
+
+x = INSERT('x is:')
+def my_abs(x):
+    if x >= 0:
+        return(x)
+    else:
+        return(-x)
+    
+print(x)

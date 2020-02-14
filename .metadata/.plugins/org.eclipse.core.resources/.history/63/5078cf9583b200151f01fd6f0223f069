@@ -1,0 +1,2 @@
+classmates = ['lily','lucy','aixe','ben']
+print(classmates[5])

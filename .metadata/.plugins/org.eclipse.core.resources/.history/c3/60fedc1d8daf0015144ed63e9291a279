@@ -1,0 +1,12 @@
+#test datatype
+# a = 100
+# if a > 0:
+# print(a):
+# else:
+# print(-a)
+
+b ="abc"
+a = 123
+a = b
+print(a)
+len('хннЯ')

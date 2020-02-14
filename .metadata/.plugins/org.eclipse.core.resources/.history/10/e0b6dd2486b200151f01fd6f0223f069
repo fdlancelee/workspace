@@ -1,0 +1,4 @@
+sum = 1
+for X in range(101):
+    sum = sum + X
+print('sum is :',sum)

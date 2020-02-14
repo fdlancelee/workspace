@@ -1,0 +1,10 @@
+age = 31
+if age>=30:
+    print('your age is',age)
+    print('adult')
+elif age<=35:
+    print('your age is',age)
+    print('mid')    
+else:
+    print('your age is',age)
+    print('teenager')    

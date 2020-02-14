@@ -1,0 +1,8 @@
+# L = []
+# L = list(range(1,11))
+# print(L)
+
+for x in range(1,11):
+    L append(X * X)
+    
+print(L)
