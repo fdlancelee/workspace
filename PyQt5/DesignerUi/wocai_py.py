@@ -11,6 +11,7 @@ class MyWindow(QMainWindow, Ui_MainWindow):
 
 if __name__ == '__main__':
     app = QApplication(sys.argv)
+    print("hello")
     myWin = MyWindow()
     myWin.show()
     sys.exit(app.exec_())
